@@ -1,4 +1,4 @@
-module github.com/segmentio/conf
+module github.com/jtbonhomme/conf
 
 require (
 	github.com/segmentio/go-snakecase v1.1.0 // indirect
